@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.fdb52457.css",
+    "main.js": "/react-app/static/js/main.3d151546.js",
+    "index.html": "/react-app/index.html",
+    "main.fdb52457.css.map": "/react-app/static/css/main.fdb52457.css.map",
+    "main.3d151546.js.map": "/react-app/static/js/main.3d151546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdb52457.css",
+    "static/js/main.3d151546.js"
+  ]
+}
